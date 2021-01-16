@@ -21,7 +21,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Level Up!"
-config/icon="res://icon.png"
+config/icon="res://Assets/icon.png"
 
 [gdnative]
 
